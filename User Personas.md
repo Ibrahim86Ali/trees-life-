@@ -1,6 +1,6 @@
 # User Personas
 
-![lucy](https://ibb.co/nb0spqR)
+![lucy](https://github.com/Ibrahim86Ali/trees-life-/blob/main/Assets/lucy.jpg)
 
 ## lucy
 
